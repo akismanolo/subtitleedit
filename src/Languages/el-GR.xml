@@ -1264,12 +1264,12 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <Title>Τροποποίηση επιλογής</Title>
     <Rule>Κανόνας</Rule>
     <CaseSensitive>Διάκριση πεζών</CaseSensitive>
-    <DoWithMatches>Τι να κάνω με αυτές που ταιριάζουν</DoWithMatches>
+    <DoWithMatches>Τι να κάνω με αυτές που ταυτίζονται</DoWithMatches>
     <MakeNewSelection>Κάνε νέα επιλογή</MakeNewSelection>
     <AddToCurrentSelection>Προσθήκη στη τρέχουσα επιλογή</AddToCurrentSelection>
     <SubtractFromCurrentSelection>Αφαίρεση από την τρέχουσα επιλογή</SubtractFromCurrentSelection>
     <IntersectWithCurrentSelection>Διασταύρωση με την τρέχουσα επιλογή</IntersectWithCurrentSelection>
-    <MatchingLinesX>Γραμμές που ταιριάζουν: {0}</MatchingLinesX>
+    <MatchingLinesX>Γραμμές που ταυτίζονται: {0}</MatchingLinesX>
     <Contains>Περιέχει</Contains>
     <StartsWith>Ξεκινά με</StartsWith>
     <EndsWith>Τελειώνει με</EndsWith>
