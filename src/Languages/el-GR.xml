@@ -1,12 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Language Name="Greek">
   <General>
     <Title>Subtitle Edit</Title>
-    <Version>3.4.1</Version>
-    <TranslatedBy>Μετάφραση από: CrazyRabbit - Κλεάνθης Μανωλόπουλος
-Σχόλια για τη μετάφραση στο: mailto:akis_manolopoulos@hotmail.com</TranslatedBy>
+    <Version>3.3.15</Version>
+    <TranslatedBy>Μετάφραση από: CrazyRabbit - Κλεάνθης Μανωλόπουλος 
+Σχόλια για τη μετάφραση στο: akis_manolopoulos@hotmail.com</TranslatedBy>
     <CultureName>el-GR</CultureName>
-    <HelpFile />
+    <HelpFile>
+    </HelpFile>
     <OK>&amp;Εντάξει</OK>
     <Cancel>Α&amp;κύρωση</Cancel>
     <Apply>Εφαρμογή</Apply>
@@ -75,9 +76,9 @@
   </General>
   <About>
     <Title>Σχετικά με το Subtitle Edit</Title>
-    <AboutText1>Το Subtitle Edit είναι ένα Δωρεάν Λογισμικό υπό την Άδεια
-Δημόσιας Χρήσης GNU.
-Μπορείτε να το διανείμετε, να το τροποποιείτε και να το
+    <AboutText1>Το Subtitle Edit είναι ένα Δωρεάν Λογισμικό υπό την Άδεια 
+Δημόσιας Χρήσης GNU. 
+Μπορείτε να το διανείμετε, να το τροποποιείτε και να το 
 χρησιμοποιείτε ελεύθερα.
 
 Ο κώδικας σε C# είναι διαθέσιμος στο https://github.com/SubtitleEdit/subtitleedit
@@ -93,8 +94,8 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <Description>Προσθήκη στη λίστα ονομάτων (διάκριση πεζών-κεφαλαίων)</Description>
   </AddToNames>
   <AddToOcrReplaceList>
-    <Title>Προσθήκη στη λίστα αντικατάστασης του OCR</Title>
-    <Description>Προσθήκη ζεύγους στη λίστα αντικατάστασης του OCR (ευαίσθητο στα πεζά)</Description>
+    <Title>Προσθήκη στη λίστα αντικατάστασης του ocr</Title>
+    <Description>Προσθήκη ζεύγους στη λίστα αντικατάστασης του ocr (ευαίσθητο στα πεζά)</Description>
   </AddToOcrReplaceList>
   <AddToUserDictionary>
     <Title>Προσθήκη στο λεξικό του χρήστη</Title>
@@ -305,7 +306,7 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <AbortedByUser>Ματαιώθηκε από τον χρήστη</AbortedByUser>
     <ReadingSubtitleData>Ανάγνωση δεδομένων υποτίτλου...</ReadingSubtitleData>
     <RippingVobFileXofYZ>Ripping αρχείων vob {1} από {2}: {0}</RippingVobFileXofYZ>
-    <WrongIfoType>Ο τύπος IFO είναι '{0}' και όχι 'DVDVIDEO-VTS'.{1}Προσπαθείστε με ένα άλλο αρχείο εκτός του {2}</WrongIfoType>
+    <WrongIfoType>Ο τύπος IFO είναι '{0}' και όχι 'DVDVIDEO-VTS'.{1} Προσπαθείστε με ένα άλλο αρχείο εκτός του {2}</WrongIfoType>
   </DvdSubRip>
   <DvdSubRipChooseLanguage>
     <Title>Επιλέξτε γλώσσα</Title>
@@ -315,34 +316,34 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <SubtitleImage>Εικόνα υπότιτλου</SubtitleImage>
   </DvdSubRipChooseLanguage>
   <EbuSaveOptions>
-    <Title>Επιλογές αποθήκευσης τύπου EBU</Title>
+    <Title>Επιλογές αποθήκευσης EBU</Title>
     <GeneralSubtitleInformation>Γενικές πληροφορίες υπότιτλου</GeneralSubtitleInformation>
     <CodePageNumber>Αριθμός κωδικοσελίδας</CodePageNumber>
-    <DiskFormatCode>Κωδικός μορφής δίσκου</DiskFormatCode>
-    <DisplayStandardCode>Προβολή τυπικού κώδικα</DisplayStandardCode>
-    <CharacterCodeTable>Πίνακας χαρακτήρων</CharacterCodeTable>
+    <DiskFormatCode>Κώδικας είδους δίσκου</DiskFormatCode>
+    <DisplayStandardCode>Προβολή κώδικα προεπιλογής</DisplayStandardCode>
+    <CharacterCodeTable>Πίνακς χαρακτήρων</CharacterCodeTable>
     <LanguageCode>Κωδικός γλώσσας</LanguageCode>
-    <OriginalProgramTitle>Πρωτότυπος τίτλος προγράμματος</OriginalProgramTitle>
-    <OriginalEpisodeTitle>Πρωτότυπος τίτλος επεισόδιου</OriginalEpisodeTitle>
+    <OriginalProgramTitle>Αρχικός τίτλος προγράμματος</OriginalProgramTitle>
+    <OriginalEpisodeTitle>Αρχικός τίτλος επεισοδίου</OriginalEpisodeTitle>
     <TranslatedProgramTitle>Μεταφρασμένος τίτλος προγράμματος</TranslatedProgramTitle>
     <TranslatedEpisodeTitle>Μεταφρασμένος τίτλος επεισοδίου</TranslatedEpisodeTitle>
-    <TranslatorsName>Όνομα του μεταφραστή</TranslatorsName>
-    <SubtitleListReferenceCode>Κωδικός αναφοράς της λίστας υπότιτλων</SubtitleListReferenceCode>
-    <CountryOfOrigin>Χώρα καταγωγής</CountryOfOrigin>
+    <TranslatorsName>Όνομα μεταφραστή</TranslatorsName>
+    <SubtitleListReferenceCode>Λίστα κώδικα αναφοράς υποτίτλου</SubtitleListReferenceCode>
+    <CountryOfOrigin>Χώρα προέλευσης</CountryOfOrigin>
     <RevisionNumber>Αριθμός αναθεώρησης</RevisionNumber>
-    <MaxNoOfDisplayableChars>Μέγιστος αριθμός χαρακτήρων ανά σειρά</MaxNoOfDisplayableChars>
-    <MaxNumberOfDisplayableRows>Μέγιστος αριθμός γραμμών</MaxNumberOfDisplayableRows>
-    <DiskSequenceNumber>Αύξων αριθμός δίσκου</DiskSequenceNumber>
+    <MaxNoOfDisplayableChars>Μέγιστος# χαρακτήρων ανά σειρά</MaxNoOfDisplayableChars>
+    <MaxNumberOfDisplayableRows>Μέγιστος# σειρών</MaxNumberOfDisplayableRows>
+    <DiskSequenceNumber>Αριθμός σειράς δίσκου</DiskSequenceNumber>
     <TotalNumberOfDisks>Συνολικός αριθμός δίσκων</TotalNumberOfDisks>
     <Import>Εισαγωγή...</Import>
     <TextAndTimingInformation>Πληροφορίες κειμένου και χρονισμού</TextAndTimingInformation>
-    <JustificationCode>Κωδικός αιτιολόγησης</JustificationCode>
-    <Errors>Λάθη</Errors>
-    <ErrorsX>Λάθη: {0}</ErrorsX>
-    <MaxLengthError>Η Γραμμή {0} υπερβαίνει το μέγιστο μήκος ({1}) κατά {2}: {3}</MaxLengthError>
-    <TextUnchangedPresentation>Αμετάβλητη παρουσίαση</TextUnchangedPresentation>
+    <JustificationCode>Κώδικας στοίχισης</JustificationCode>
+    <Errors>Σφάλματα</Errors>
+    <ErrorsX>Σφάλματα: {0}</ErrorsX>
+    <MaxLengthError>Η γραμμή {0} υπερβαίνει το μέγιστο μήκος ({1}) κατά {2}: {3}</MaxLengthError>
+    <TextUnchangedPresentation>Μη συνδεδεμένη παρουσίαση</TextUnchangedPresentation>
     <TextLeftJustifiedText>Αριστερά στοιχισμένο κείμενο</TextLeftJustifiedText>
-    <TextCentredText>Κεντραρισμένο κείμενο </TextCentredText>
+    <TextCentredText>Κεντραρισμένο κείμενο</TextCentredText>
     <TextRightJustifiedText>Δεξιά στοιχισμένο κείμενο</TextRightJustifiedText>
   </EbuSaveOptions>
   <EffectKaraoke>
@@ -1041,8 +1042,7 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <TextingForHearingImpairedRemovedOneLine>Κείμενο για άτομα με προβλήματα ακοής  αφαιρέθηκε : Μια γραμμή</TextingForHearingImpairedRemovedOneLine>
     <TextingForHearingImpairedRemovedXLines>Κείμενο για άτομα με προβλήματα ακοής  αφαιρέθηκε : {0} γραμμές</TextingForHearingImpairedRemovedXLines>
     <SubtitleSplitted>Ο υπότιτλος διαχωρίστηκε</SubtitleSplitted>
-    <SubtitleAppendPrompt>Αυτό θα προσαρτήσει έναν υπάρχον υπότιτλο στον φορτωμένο υπότιτλο που πρέπει να
-έχει ήδη συγχρονιστεί με το αρχείο βίντεο.
+    <SubtitleAppendPrompt>Αυτό θα προσαρτήσει έναν υπότιτλο στον φορτωμένο υπότιτλο, που πρέπει να έχει ήδη συγχρονιστεί με το αρχείο βίντεο.
 
 Θέλετε να συνεχίσετε;</SubtitleAppendPrompt>
     <SubtitleAppendPromptTitle>Προσάρτηση υπότιτλου</SubtitleAppendPromptTitle>
@@ -1069,6 +1069,7 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <NothingToUndo>Τίποτα για αναίρεση</NothingToUndo>
     <InvalidLanguageNameX>Μη έγκυρο όνομα γλώσσας: {0}</InvalidLanguageNameX>
     <UnableToChangeLanguage>Αδυναμία αλλαγής γλώσσας !</UnableToChangeLanguage>
+    <DoNotDisplayMessageAgain>Να μην προβάλλεται αυτό το μήνυμα ξανά</DoNotDisplayMessageAgain>
     <NumberOfCorrectedWords>Σύνολο διορθωμένων λέξεων: {0}</NumberOfCorrectedWords>
     <NumberOfSkippedWords>Σύνολο λέξεων που παραλείφθηκαν: {0}</NumberOfSkippedWords>
     <NumberOfCorrectWords>Σύνολο σωστών λέξεων: {0}</NumberOfCorrectWords>
@@ -1297,6 +1298,8 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <ImportRulesTitle>Εισαγωγή κανόνων αντικατάστασης από...</ImportRulesTitle>
     <ExportRulesTitle>Εξαγωγή κανόνων αντικατάστασης σε...</ExportRulesTitle>
     <Rules>Εξαγωγή κανόνων</Rules>
+    <MoveToTop>Μετακίνηση επάνω</MoveToTop>
+    <MoveToBottom>Μετακίνηση κάτω</MoveToBottom>
   </MultipleReplace>
   <NetworkChat>
     <Title>Συνομιλία</Title>
@@ -1653,6 +1656,11 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <Miscellaneous>Διάφορα</Miscellaneous>
     <UseDoNotBreakAfterList>Χρησιμοποιήστε τη μη-διάσπαση-μετά τη λίστα (για αυτόματη διάσπαση)</UseDoNotBreakAfterList>
   </Settings>
+  <SetVideoOffset>
+    <Title>Ρύθμιση του βίντεο offset</Title>
+    <Description>Ρύθμιση του βίντεο offset (οι υπότιτλοι δεν πρέπει να ακολουθούν τον πραγματικό χρόνο του βίντεο, αλλά π.χ. +10 ώρες)</Description>
+    <RelativeToCurrentVideoPosition>Σχετικό με την τρέχουσα θέση του βίντεο</RelativeToCurrentVideoPosition>
+  </SetVideoOffset>
   <ShowEarlierLater>
     <Title>Εμφάνιση επιλεγμένων γραμμών νωρίτερα/αργότερα</Title>
     <TitleAll>Εμφάνιση όλων των γραμμών νωρίτερα/αργότερα</TitleAll>
@@ -1683,7 +1691,7 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <SkipAll>&amp;Παράλειψη όλων</SkipAll>
     <AddToUserDictionary>Προσθήκη στο λεξικό του χρήστη</AddToUserDictionary>
     <AddToNamesAndIgnoreList>Προσθήκη στη λίστα ονομάτων/παραλείψεων (διάκριση πεζών-κεφαλαίων)</AddToNamesAndIgnoreList>
-    <AddToOcrReplaceList>Προσθήκη ζεύγους στη λίστα αντικατάστασης του OCR</AddToOcrReplaceList>
+    <AddToOcrReplaceList>Προσθήκη ζεύγους στη λίστα αντικατάστασης του ocr</AddToOcrReplaceList>
     <Abort>Ματαίωση</Abort>
     <Use>Χρήση</Use>
     <UseAlways>&amp;Χρήση πάντα</UseAlways>
@@ -1772,6 +1780,9 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <DurationMinimum>Διάρκεια - ελάχιστη: {0:0.000} δευτερόλεπτα</DurationMinimum>
     <DurationMaximum>Διάρκεια - μέγιστη: {0:0.000} δευτερόλεπτα</DurationMaximum>
     <DurationAvarage>Διάρκεια - μέση: {0:0.000} δευτερόλεπτα</DurationAvarage>
+    <CharactersPerSecondMinimum>Χαρακτήρες/δευτ - ελάχιστο: {0:0.000}</CharactersPerSecondMinimum>
+    <CharactersPerSecondMaximum>Χαρακτήρες/δευτ - μέγιστο: {0:0.000}</CharactersPerSecondMaximum>
+    <CharactersPerSecondAverage>Χαρακτήρες/δευτ - κατά μέσο όρο: {0:0.000}</CharactersPerSecondAverage>
   </Statistics>
   <SubStationAlphaProperties>
     <Title>Προχωρημένες ιδιότητες Sub Station Alpha</Title>
@@ -1931,6 +1942,7 @@ Email: mailto:nikse.dk@gmail.com</AboutText1>
     <OcrAutoCorrectionSpellchecking>Αυτόματη διόρθωση/ορθογραφικός έλεγχος OCR</OcrAutoCorrectionSpellchecking>
     <FixOcrErrors>Επιδιόρθωση σφαλμάτων OCR</FixOcrErrors>
     <ImportTextWithMatchingTimeCodes>Εισαγωγή κειμένου με αντιστοιχία κωδικών χρόνου...</ImportTextWithMatchingTimeCodes>
+    <ImportNewTimeCodes>Εισαγωγή νέων κωδικών χρόνου</ImportNewTimeCodes>
     <SaveSubtitleImageAs>Αποθήκευση εικόνας υπότιτλου ως...</SaveSubtitleImageAs>
     <SaveAllSubtitleImagesAsBdnXml>Αποθήκευση όλων των εικόνων(png/bdn xml)...</SaveAllSubtitleImagesAsBdnXml>
     <SaveAllSubtitleImagesWithHtml>Αποθήκευση όλων των εικόνων με html...</SaveAllSubtitleImagesWithHtml>
