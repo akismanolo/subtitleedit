@@ -742,7 +742,7 @@ Note: Do check free disk space.</WaveFileMalformed>
         <SubStationAlphaProperties>Ιδιότητες Sub Station Alpha...</SubStationAlphaProperties>
         <EbuProperties>EBU STL properties...</EbuProperties>
         <PacProperties>PAC properties...</PacProperties>
-		<OpenOriginal>Άνοιγμα αρχικού υπότιτλου (Λειτουργία Μεταφραστή)...</OpenOriginal>
+	<OpenOriginal>Άνοιγμα αρχικού υπότιτλου (Λειτουργία Μεταφραστή)...</OpenOriginal>
         <SaveOriginal>Αποθήκευση αρχικού υπότιτλου</SaveOriginal>
         <CloseOriginal>Κλείσιμο αρχικού υπότιτλου</CloseOriginal>
         <OpenContainingFolder>Άνοιγμα περιέχοντα φακέλου</OpenContainingFolder>
@@ -790,7 +790,7 @@ Note: Do check free disk space.</WaveFileMalformed>
         <InsertUnicodeControlCharactersRLE>Start of right-to-left embedding (RLE)</InsertUnicodeControlCharactersRLE>
         <InsertUnicodeControlCharactersLRO>Start of left-to-right override (LRO)</InsertUnicodeControlCharactersLRO>
         <InsertUnicodeControlCharactersRLO>Start of right-to-left override (RLO)</InsertUnicodeControlCharactersRLO>
-		<Find>Εύ&amp;ρεση</Find>
+	<Find>Εύ&amp;ρεση</Find>
         <FindNext>Εύρεση &amp;επόμενου</FindNext>
         <Replace>Α&amp;ντικατάσταση</Replace>
         <MultipleReplace>&amp;Πολλαπλές αντικαταστάσεις...</MultipleReplace>
@@ -849,7 +849,7 @@ Note: Do check free disk space.</WaveFileMalformed>
         <ImportSceneChanges>Εισαγωγή σκηνών αλλαγής...</ImportSceneChanges>
         <RemoveSceneChanges>Αφαίρεση σκηνών αλλαγής</RemoveSceneChanges>
         <WaveformBatchGenerate>Batch generate waveforms...</WaveformBatchGenerate>
-		<ShowHideVideo>Εμφάνιση/απόκρυψη βίντεο</ShowHideVideo>
+	<ShowHideVideo>Εμφάνιση/απόκρυψη βίντεο</ShowHideVideo>
         <ShowHideWaveform>Εμφάνιση/απόκρυψη κυματομορφής</ShowHideWaveform>
         <ShowHideWaveformAndSpectrogram>Εμφάνιση/απόκρυψη κυματομορφής και φασματογράμματος</ShowHideWaveformAndSpectrogram>
         <UnDockVideoControls>Απαγκύρωση στοιχείων ελέγχου βίντεο</UnDockVideoControls>
@@ -921,7 +921,7 @@ Note: Do check free disk space.</WaveFileMalformed>
         <TimedTextSetLanguage>Timed Text - ορισμός γλώσσας</TimedTextSetLanguage>
         <SamiSetStyle>Sami - ορισμός κλάσης</SamiSetStyle>
         <NuendoSetStyle>Nuendo - set character</NuendoSetStyle>
-		<Cut>Αποκοπή</Cut>
+	<Cut>Αποκοπή</Cut>
         <Copy>Αντιγραφή</Copy>
         <Paste>Επικόλληση</Paste>
         <Delete>Διαγραφή</Delete>
@@ -968,15 +968,15 @@ Note: Do check free disk space.</WaveFileMalformed>
       </ContextMenu>
     </Menu>
     <Controls>
-		<SubtitleFormat>Μορφή</SubtitleFormat>
-		<FileEncoding>Κωδικοποίηση</FileEncoding>
-		<ListView>Προβολή λίστας</ListView>
-		<SourceView>Προβολή πηγής</SourceView>
-		<UndoChangesInEditPanel>Αναίρεση αλλαγών στον πίνακα επεξεργασίας</UndoChangesInEditPanel>
-		<Previous>&lt; Προηγούμενο</Previous>
-		<Next>Επόμενο &gt;</Next>
-		<AutoBreak>Αυτόματη &amp;αλλαγή γραμμής</AutoBreak>
-		<Unbreak>Συνένωση γραμμών</Unbreak>
+	<SubtitleFormat>Μορφή</SubtitleFormat>
+	<FileEncoding>Κωδικοποίηση</FileEncoding>
+	<ListView>Προβολή λίστας</ListView>
+	<SourceView>Προβολή πηγής</SourceView>
+	<UndoChangesInEditPanel>Αναίρεση αλλαγών στον πίνακα επεξεργασίας</UndoChangesInEditPanel>
+	<Previous>&lt; Προηγούμενο</Previous>
+	<Next>Επόμενο &gt;</Next>
+	<AutoBreak>Αυτόματη &amp;αλλαγή γραμμής</AutoBreak>
+	<Unbreak>Συνένωση γραμμών</Unbreak>
     </Controls>
     <VideoControls>
       <Translate>Μετάφραση</Translate>
@@ -1132,7 +1132,7 @@ File is read-only!</FileXIsReadOnly>
     <InvalidLanguageNameX>Μη έγκυρο όνομα γλώσσας: {0}</InvalidLanguageNameX>
     <UnableToChangeLanguage>Αδυναμία αλλαγής γλώσσας !</UnableToChangeLanguage>
     <DoNotDisplayMessageAgain>Don't display this message again</DoNotDisplayMessageAgain>
-	<NumberOfCorrectedWords>Σύνολο διορθωμένων λέξεων: {0}</NumberOfCorrectedWords>
+    <NumberOfCorrectedWords>Σύνολο διορθωμένων λέξεων: {0}</NumberOfCorrectedWords>
     <NumberOfSkippedWords>Σύνολο λέξεων που παραλείφθηκαν: {0}</NumberOfSkippedWords>
     <NumberOfCorrectWords>Σύνολο σωστών λέξεων: {0}</NumberOfCorrectWords>
     <NumberOfWordsAddedToDictionary>Σύνολο λέξεων που προστέθηκαν στο λεξικό: {0}</NumberOfWordsAddedToDictionary>
@@ -1168,9 +1168,9 @@ File is read-only!</FileXIsReadOnly>
     <NoSubtitlesFound>Δεν βρέθηκαν υπότιτλοι</NoSubtitlesFound>
     <NotAValidMatroskaFileX>Αυτό δεν είναι έγκυρο αρχείο Matroska: {0}</NotAValidMatroskaFileX>
     <BlurayNotSubtitlesFound>Blu-ray sup file does not contain any subtitles or contains errors - try demuxing again.</BlurayNotSubtitlesFound>
-	<ParsingMatroskaFile>Ανάλυση αρχείου Matroska. Παρακαλώ περιμένετε...</ParsingMatroskaFile>
+    <ParsingMatroskaFile>Ανάλυση αρχείου Matroska. Παρακαλώ περιμένετε...</ParsingMatroskaFile>
     <ParsingTransportStreamFile>Parsing Transport Stream file. Please wait...</ParsingTransportStreamFile>
-	<BeforeImportFromMatroskaFile>Πριν από εισαγωγή υπότιτλου από αρχείο Matroska</BeforeImportFromMatroskaFile>
+    <BeforeImportFromMatroskaFile>Πριν από εισαγωγή υπότιτλου από αρχείο Matroska</BeforeImportFromMatroskaFile>
     <SubtitleImportedFromMatroskaFile>Υπότιτλος από αρχείο Matroska εισήχθηκε</SubtitleImportedFromMatroskaFile>
     <DropFileXNotAccepted>Το ριγμένο αρχείο '{0}' δεν έγινε δεκτό - το αρχείο είναι πολύ μεγάλο</DropFileXNotAccepted>
     <DropOnlyOneFile>Μπορείτε να ρίξετε μόνο ένα αρχείο</DropOnlyOneFile>
