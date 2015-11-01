@@ -66,8 +66,8 @@
     <ControlsWindowTitle>Στοιχεία ελέγχου - {0}</ControlsWindowTitle>
     <Advanced>Προηγμένες</Advanced>
     <Style>Στυλ</Style>
-	  <StyleLanguage>Στυλ / Γλώσσα</StyleLanguage>
-	  <Character>Χαρακτήρας</Character>
+    <StyleLanguage>Στυλ / Γλώσσα</StyleLanguage>
+    <Character>Χαρακτήρας</Character>
     <Class>Κατηγορία</Class>
     <GeneralText>Γενικά</GeneralText>
     <LineNumber>Γραμμή#</LineNumber>
